@@ -31,7 +31,7 @@ Projede, `Yapılacaklar` listesine yeni görev eklenmesini sağlayan ve görevle
 
 ## Talimatlar
 
-### Görev 1: Proje Kurulumu
+### Göre sv 1: Proje Kurulumu
 
 - Forklayın, klonlayın, ve `npm install` komutunu çalıştırın.
 - Projeyi çalıştırmak için `npm start` komutunu kullanın.
